@@ -7,7 +7,7 @@
 // @run-at document-end
 // @grant none
 // @downloadURL https://github.com/bentasker/testproject/raw/master/test_fkamp_8.user.js
-// @version 1.4.21
+// @version 1.4.3
 //
 //
 // See https://projects.bentasker.co.uk/jira_projects/browse/FKAMP-8.html
